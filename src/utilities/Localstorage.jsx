@@ -8,8 +8,8 @@ const getStoreCart=()=>{
 }
 //3 save to ls
 const saveCartToLs=cart=>{
-    const cartStringified = JSON.stringify(cart)
-    localStorage.setItem('cart',cartStringified)
+    const cartStringified = JSON.stringify(cart);
+    localStorage.setItem('cart',cartStringified);
 }
 
 //2 add to localstorage
@@ -17,15 +17,15 @@ const addToLs=id=>{
     const cart = getStoreCart();
     cart.push(id)
     //save to local storage
-    saveCartToLs(cart)
+    saveCartToLs(cart);
 }
 
 //remove from ls
 const removeFromLs = id =>{
     const cart = getStoreCart();
     //remove every id 
-    const remaining = cart.filter(idx => idx !==id)
-    saveCartToLs(remaining)
+    const remaining = cart.filter(idx => idx !==id);
+    saveCartToLs(remaining);
 
 }
 
