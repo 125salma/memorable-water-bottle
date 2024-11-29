@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Product A",
+    "seller": "Seller X",
+    "stock": 120,
+    "ratings": 4.5,
+    "price": 29.99,
+    "ratingCount": 150,
+    "img": "images/imge1.jpg",
+    "shipping": "Free Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "2",
+    "name": "Product B",
+    "seller": "Seller Y",
+    "stock": 75,
+    "ratings": 4.0,
+    "price": 49.99,
+    "ratingCount": 200,
+    "img": "images/imge2.jpg",
+    "shipping": "Standard Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "3",
+    "name": "Product C",
+    "seller": "Seller Z",
+    "stock": 200,
+    "ratings": 4.8,
+    "price": 19.99,
+    "ratingCount": 300,
+    "img": "images/imge3.jpg",
+    "shipping": "Free Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "4",
+    "name": "Product D",
+    "seller": "Seller A",
+    "stock": 50,
+    "ratings": 4.2,
+    "price": 39.99,
+    "ratingCount": 80,
+    "img": "images/imge4.jpg",
+    "shipping": "Expedited Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "5",
+    "name": "Product E",
+    "seller": "Seller B",
+    "stock": 90,
+    "ratings": 4.6,
+    "price": 24.99,
+    "ratingCount": 220,
+    "img": "images/imge5.jpg",
+    "shipping": "Free Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "6",
+    "name": "Product F",
+    "seller": "Seller C",
+    "stock": 40,
+    "ratings": 4.3,
+    "price": 34.99,
+    "ratingCount": 130,
+    "img": "images/imge6.jpg",
+    "shipping": "Standard Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "7",
+    "name": "Product G",
+    "seller": "Seller D",
+    "stock": 85,
+    "ratings": 4.7,
+    "price": 59.99,
+    "ratingCount": 180,
+    "img": "images/imge7.jpg",
+    "shipping": "Free Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "8",
+    "name": "Product H",
+    "seller": "Seller E",
+    "stock": 65,
+    "ratings": 4.1,
+    "price": 44.99,
+    "ratingCount": 90,
+    "img": "images/imge8.jpg",
+    "shipping": "Expedited Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "9",
+    "name": "Product I",
+    "seller": "Seller F",
+    "stock": 110,
+    "ratings": 4.4,
+    "price": 27.99,
+    "ratingCount": 160,
+    "img": "images/imge9.jpg",
+    "shipping": "Standard Shipping",
+    "quantity": 1
+  },
+  {
+    "id": "10",
+    "name": "Product J",
+    "seller": "Seller G",
+    "stock": 55,
+    "ratings": 4.9,
+    "price": 22.99,
+    "ratingCount": 250,
+    "img": "images/imge10.jpg",
+    "shipping": "Free Shipping",
+    "quantity": 1
+  }
+]
